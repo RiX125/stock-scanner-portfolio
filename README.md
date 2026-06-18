@@ -1,17 +1,61 @@
-# Stock Scanner Portfolio
+# AI Stock Scanner Portfolio
 
-AI-assisted stock scanner and trading dashboard built for US stock market analysis.
+AI-assisted stock scanner and trading dashboard designed for US stock market analysis.
+
+## Overview
+
+This project combines technical analysis, options flow analysis, volume expansion detection and momentum ranking into a unified stock scanning platform.
+
+The system is designed to help traders discover high-conviction trading opportunities efficiently.
+
+---
 
 ## Features
 
-- Fibonacci Pullback Scanner
-- Breakout Scanner
-- New Discoveries Engine
-- Trading Dashboard
-- Tradier API Integration
-- TradingView Chart Support
-- Options Flow Analysis
-- Risk Scoring System
+### Fibonacci Pullback Scanner
+
+Detects pullbacks into Fibonacci support zones with trend confirmation.
+
+### AI Stock Radar
+
+Ranks stocks using:
+
+- Volume Expansion
+- EMA Trend Confirmation
+- Options Activity
+- Relative Strength
+- Momentum Score
+
+### Moonshot Scanner
+
+Identifies high-growth momentum candidates with breakout potential.
+
+### Additional Tools
+
+- Real-time stock scanning
+- Trading dashboard
+- Tradier API integration
+- TradingView chart support
+- Options flow analysis
+- Risk scoring engine
+
+---
+
+## Screenshots
+
+### Fibonacci Pullback Scanner
+
+![Fibonacci Pullback Scanner](Fibonacci%20Pullback%20Scanner.png)
+
+### AI Stock Radar
+
+![AI Stock Radar](AI%20Stock%20Radar.png)
+
+### Moonshot Scanner
+
+![Moonshot Scanner](Moonshot%20Scanner.png)
+
+---
 
 ## Tech Stack
 
@@ -21,43 +65,9 @@ AI-assisted stock scanner and trading dashboard built for US stock market analys
 - HTML/CSS
 - Tradier API
 - TradingView
-- SQLite
 
-## Project Overview
+---
 
-This project is a custom stock scanning platform designed to identify high-potential trading opportunities in the US stock market.
+## Project Goal
 
-The platform combines technical analysis, momentum detection, volume screening, and options flow data to generate actionable watchlists and trading setups.
-
-## Screenshots
-
-### Dashboard
-
-![Dashboard](dashboard.png)
-
-### New Discoveries
-
-![New Discoveries](new-discoveries.png)
-
-### Fibonacci Scanner
-
-![Fibonacci Scanner](fibonacci.png)
-
-### Breakout Scanner
-
-![Breakout Scanner](breakout.png)
-
-## Highlights
-
-- Real-time market scanning
-- Automated stock screening
-- Technical pattern recognition
-- Options flow integration
-- Trading dashboard visualization
-- AI-assisted workflow
-
-## Author
-
-Yvette
-
-AI Automation & Python Developer
+Build an AI-assisted stock research and opportunity discovery platform for active traders and investors.
